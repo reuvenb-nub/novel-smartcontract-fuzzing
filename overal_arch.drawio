@@ -13,7 +13,7 @@
         <mxCell id="xBrktBGSMe7uVQQAYPsh-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#e3f3e2;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="270" width="150" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="xBrktBGSMe7uVQQAYPsh-97" value="Agent group" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="xBrktBGSMe7uVQQAYPsh-97" value="Generator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="131.25" y="270" width="107.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xBrktBGSMe7uVQQAYPsh-139" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=17;strokeWidth=2;dashed=1;dashPattern=1 1;curved=0;" edge="1" parent="1">
